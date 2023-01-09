@@ -1,0 +1,15 @@
+@mixin bodyreset{
+    margin: 0;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+@mixin flexcenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@mixin button-reset{
+    outline: none;
+    border: none;
+}
