@@ -5,3 +5,5 @@ Esse projeto me possibilitou treinar minhas habilidades em SASS (uso de mixins, 
 armazenar estilos em variáveis).
 
 <img src="https://github.com/GabrielLima5/imagens-projetos/blob/main/images/Tela%20Login%20EGM.png">
+
+<p align="center">Acesse a aplicação diretamente clicando <a href="https://gabriellima5.github.io/tela-login-EGM/">aqui</a>.</p>
